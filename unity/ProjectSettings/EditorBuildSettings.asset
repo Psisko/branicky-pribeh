@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 98cbd0a8afa14aa4fb891f42ab6d29e8
+  - enabled: 1
+    path: Assets/Scenes/1-1-unetice-outdoor.unity
+    guid: b974ac1b654e6b14e93a217f84951c31
+  - enabled: 1
+    path: Assets/Scenes/1-2-unetice-pub.unity
+    guid: 63d1cbad3fa4c0243969636dcb380b9e
+  - enabled: 1
+    path: Assets/Scenes/1-3-unetice-brewery.unity
+    guid: 193494e4f84e89d40b328eebfff84265
+  - enabled: 1
+    path: Assets/Scenes/2-1-starobrno-tunnels.unity
+    guid: 533ba0ea94b5a364f8636d67ac983a75
+  - enabled: 1
+    path: Assets/Scenes/2-2-starobrno-bossfight.unity
+    guid: 7ea22ab94dad1ad4da3f4b43e7c2e3d8
+  - enabled: 1
+    path: Assets/Scenes/3-1-plzen-courtyard.unity
+    guid: 03eb4a6eda5613849b83365dc17e4bc4
+  - enabled: 1
+    path: Assets/Scenes/3-2-plzen-elevator.unity
+    guid: 2e8ea89a04e4c4e43bb8d90e06ab0520
+  - enabled: 1
+    path: Assets/Scenes/3-3-plzen-lair.unity
+    guid: 86d0f0c780fea6343a97d963997c0b85
+  - enabled: 1
+    path: Assets/Scenes/0-branik.unity
+    guid: 70414a86b93033342b159a27d8a34f9a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 472862d8f5e2c28478cf17c7ba4d9aee
+  m_configObjects: {}

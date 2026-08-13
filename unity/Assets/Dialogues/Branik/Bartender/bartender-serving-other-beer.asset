@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: bartender-serving-other-beer
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: "Nazdar Branice, tak to vid\xED\u0161, zase tady mus\xEDm to\u010Dit tuhle
+      be\u010Dku. Nev\xED\u0161 jestli u\u017E m\xE1me spraven\xE9 v\u0161echny stroje?"
+    speakerName: "Hospodsk\xFD Honza"
+  - text: "Ahoj Honzo, je\u0161t\u011B bohu\u017Eel ne."
+    speakerName: Branice
+  - text: "Himl hergot, tak mi dej v\u011Bd\u011Bt, a\u017E budou stroje budou spraven\xE9,
+      d\xE1me si hnedka jedno \u010Derstv\u011B to\u010Den\xFD na oslavu."
+    speakerName: "Hospodsk\xFD Honza"
+  choices: []
+  participantPortrait: {fileID: 21300000, guid: 3dd3e46f7e4d2e643acd110b2782cbd6, type: 3}
+  monologue: 0

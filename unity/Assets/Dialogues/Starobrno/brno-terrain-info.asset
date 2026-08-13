@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: brno-terrain-info
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: "Kde \u017Ee to v\u016Fbec jsme?"
+    speakerName: Branice
+  - text: "Pod Brn\u011Bnsk\xFDm pivovarem, p\u0159esn\u011Bji v podzem\xED Moravsk\xE9ho
+      krasu."
+    speakerName: "Kry\u0161tof"
+  - text: "Tak to m\u011B \xFApln\u011B uzemnilo."
+    speakerName: Branice
+  choices: []
+  participantPortrait: {fileID: 21300000, guid: acbefb7de517d05429e8f76e1b6e54a5, type: 3}
+  monologue: 0

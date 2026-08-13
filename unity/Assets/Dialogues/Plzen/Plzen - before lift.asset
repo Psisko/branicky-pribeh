@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: Plzen - before lift
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: "Poj\u010F Kry\u0161tofe, mus\xEDme zabr\xE1nit, aby pomluvy zni\u010Dily
+      jm\xE9no Bran\xEDku."
+    speakerName: Branice
+  - text: Branice..
+    speakerName: "Kry\u0161tof"
+  - text: "Nahoru pojede\u0161 sama, j\xE1 se mus\xEDm vr\xE1tit zp\xE1tky do Bran\xEDku."
+    speakerName: "Kry\u0161tof"
+  - text: "Ale pro\u010D Kry\u0161tofe?"
+    speakerName: Branice
+  - text: "V\xED\u0161, volal mi hospodsk\xFD, \u017Ee jsou v Bran\xEDku n\u011Bjak\xE9
+      probl\xE9my, mus\xEDm se tam vr\xE1tit, ale neboj se, naho\u0159e t\u011B nic
+      zl\xE9ho ne\u010Dek\xE1."
+    speakerName: "Kry\u0161tof"
+  - text: "Uka\u017E t\u011Bm buran\u016Fm, za\u010D je toho Bran\xEDk, je ti to
+      jasn\xFD?"
+    speakerName: "Kry\u0161tof"
+  - text: "Ano Kry\u0161tofe, nezklamu t\u011B!"
+    speakerName: Branice
+  choices: []
+  participantPortrait: {fileID: 21300000, guid: acbefb7de517d05429e8f76e1b6e54a5, type: 3}
+  monologue: 0

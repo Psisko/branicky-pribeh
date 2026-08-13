@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: krystof-before-plzen
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: "Starobrno? Sp\xED\u0161 Staro-bylo. Ha h\xE1!"
+    speakerName: "Kry\u0161tof"
+  - text: "Bez pomluv ze Starobrna se n\xE1m v Bran\xEDku za\u010D\xEDn\xE1 moc da\u0159it!"
+    speakerName: "Kry\u0161tof"
+  - text: "Joooo, to bych si moc p\u0159\xE1la!"
+    speakerName: Branice
+  - text: "Je tu ale je\u0161t\u011B n\u011Bkdo, kdo Br\xE1n\xED Bran\xEDku v r\u016Fstu
+      a blahobytu!"
+    speakerName: "Kry\u0161tof"
+  - text: "Co\u017Ee??!? A kdo?"
+    speakerName: Branice
+  - text: Prazdroj!
+    speakerName: "Kry\u0161tof"
+  - text: Prazdroj?
+    speakerName: Branice
+  - text: "Je to tak, Plze\u0148sk\xFD Prazdroj, v\xED\u0161 pro\u010D se mu \u0159\xEDk\xE1
+      prazdroj?"
+    speakerName: "Kry\u0161tof"
+  - text: "Proto\u017Ee je u\u017E od PRAd\xE1vna ZDROJem nePRAvdiv\xFDch pomluv
+      o na\u0161em pivovaru!"
+    speakerName: "Kry\u0161tof"
+  - text: "Teda. No tak dob\u0159e, vzh\u016Fru tedy do Plzn\u011B. Nenech\xE1me
+      si p\u0159ece takhle kazit pov\u011Bst."
+    speakerName: Branice
+  choices: []
+  participantPortrait: {fileID: 21300000, guid: acbefb7de517d05429e8f76e1b6e54a5, type: 3}
+  monologue: 0

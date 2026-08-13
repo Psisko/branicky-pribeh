@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: unetice-intro
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: "No fuj, to pivo se tady fakt ned\xE1 p\xEDt a je\u0161t\u011B jsme dostali
+      nejhor\u0161\xED st\u016Fl."
+    speakerName: "Kry\u0161tof"
+  - text: "No to teda, zlatej Bran\xEDk."
+    speakerName: Branice
+  - text: "*sly\u0161\xED, jak se mu studenti z okoln\xEDch stol\u016F za\u010Dnou
+      posm\xEDvat*"
+    speakerName: "Kry\u0161tof"
+  - text: "Pro\u010D se n\xE1m sm\u011Bjou? To si mysl\xED, \u017Ee je Bran\xEDk
+      tak \u0161patn\xFD?"
+    speakerName: "Kry\u0161tof"
+  - text: "No o\u010Dividn\u011B to maj\xED v hlav\xE1ch \xFApln\u011B pomotan\xE9..."
+    speakerName: Branice
+  - text: "No jist\u011B! M\xE1\u0161 naprostou pravdu! M\u011Bla by si jim vtlouknout
+      do hlavy, \u017Ee Bran\xEDk je ze v\u0161ech piv nejlep\u0161\xED!"
+    speakerName: "Kry\u0161tof"
+  - text: "K pohybu m\u016F\u017Ee\u0161 pou\u017E\xEDt \u0161ipky a stiskem kl\xE1vesy
+      D jim to m\u016F\u017Ee\u0161 pomoc\xED \xFAtoku srovnat v hlav\u011B."
+    speakerName: "Kry\u0161tof"
+  choices:
+  - choiceText: "Jak\xE9 \u017Ee je ovl\xE1d\xE1n\xED? "
+    isEnding: 0
+    output: 
+    dialogue:
+    - text: "K pohybu m\u016F\u017Ee\u0161 pou\u017E\xEDt \u0161ipky a stiskem kl\xE1vesy
+        D jim to m\u016F\u017Ee\u0161 pomoc\xED \xFAtoku srovnat v hlav\u011B."
+      speakerName: "Kry\u0161tof"
+  - choiceText: Jdu na to
+    isEnding: 1
+    output: 
+    dialogue:
+    - text: "To je slovo do pranice. Tak ut\xEDkej!"
+      speakerName: "Kry\u0161tof"
+  participantPortrait: {fileID: 21300000, guid: acbefb7de517d05429e8f76e1b6e54a5, type: 3}
+  monologue: 0

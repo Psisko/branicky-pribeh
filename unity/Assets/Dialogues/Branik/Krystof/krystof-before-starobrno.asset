@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: krystof-before-starobrno
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: "Teda ti fracci z Un\u011Btic m\u011B p\u011Bkn\u011B vyto\u010Dili. Jsem
+      r\xE1d \u017Ee si jim dala ochutnat i kus po\u0159\xE1dn\xFDho piva."
+    speakerName: "Kry\u0161tof"
+  - text: "To teda, kone\u010Dn\u011B jsme jim uk\xE1zali, kdo m\xE1 lep\u0161\xED
+      pivo, a ty d\u011Bti, douf\xE1m, \u017Ee si z toho vezmou ponau\u010Den\xED
+      a do Un\u011Btic u\u017E se nevr\xE1t\xED."
+    speakerName: Branice
+  - text: "P\u0159esn\u011B tak! Ty neboh\xE9 d\u011Bti jsme zachr\xE1nili a do hlavy
+      jsme jim vtloukli pouze my\u0161lenky na n\xE1\u0161 po\u017Eehnan\xFD Bran\xEDk."
+    speakerName: "Kry\u0161tof"
+  - text: "Kdy\u017E nad t\xEDm tak p\u0159em\xFD\u0161l\xEDm, ur\u010Dit\u011B t\u011Bm
+      d\u011Btem musel n\u011Bkdo namluvit, \u017Ee branick\xE9 pivo je n\u011Bjak\xE9
+      \u0161patn\xE9. Vsad\xEDm se \u017Ee to byli na\u0161i konkurenti ze Starobrna. "
+    speakerName: "Kry\u0161tof"
+  - text: "Asi bychom je m\u011Bli jet nav\u0161t\xEDvit, zn\xE1m jednu tajnou cestu,
+      jak se tam nepozorovan\u011B dostat, ale mus\xEDme j\xEDt jenom my dva."
+    speakerName: "Kry\u0161tof"
+  - text: "Woooow, tak\u017Ee rande ve dvou, to si nech\xE1m l\xEDbit."
+    speakerName: Branice
+  - text: "A je\u0161t\u011B jedna v\u011Bc. Tady m\xE1\u0161 \u0161t\xEDt. Pou\u017Eije\u0161
+      ho pomoc\xED kl\xE1vesy A a t\xEDm m\u016F\u017Ee\u0161 vykr\xFDvat nep\u0159\xE1telsk\xE9
+      \xFAtoky. Pokud se ti povede vykr\xFDt nep\u0159\xE1telsk\xFD \xFAtok, na kr\xE1tkou
+      chv\xEDli ho t\xEDm omr\xE1\u010D\xED\u0161."
+    speakerName: "Kry\u0161tof"
+  - text: "A\u017E bude\u0161 p\u0159ipraven\xE1, dve\u0159e najde\u0161 \xFApln\u011B
+      vlevo."
+    speakerName: "Kry\u0161tof"
+  choices: []
+  participantPortrait: {fileID: 21300000, guid: acbefb7de517d05429e8f76e1b6e54a5, type: 3}
+  monologue: 0

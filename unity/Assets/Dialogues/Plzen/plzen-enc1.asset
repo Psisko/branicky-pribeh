@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: plzen-enc1
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: Branice?
+    speakerName: "Kry\u0161tof"
+  - text: "Kry\u0161t\u016Fvku?"
+    speakerName: Branice
+  - text: "Jdou po n\xE1s! Zezaduu!"
+    speakerName: "Kry\u0161tof"
+  choices: []
+  participantPortrait: {fileID: 21300000, guid: acbefb7de517d05429e8f76e1b6e54a5, type: 3}
+  monologue: 1

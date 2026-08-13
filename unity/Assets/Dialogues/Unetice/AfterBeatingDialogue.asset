@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: AfterBeatingDialogue
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: "Bude\u0161 se n\xE1m je\u0161t\u011B sm\xE1t co?"
+    speakerName: Branice
+  - text: "Neeeee u\u017E neee."
+    speakerName: Fitak
+  - text: "Kdo ti v\u016Fbec nalil takovou b\u0159e\u010Dku?"
+    speakerName: Branice
+  - text: "N\u011Bkdo vevnit\u0159, j\xE1 u\u017E nev\xEDm, nech m\u011B b\xFDt."
+    speakerName: Fitak
+  - text: "Hmmm, na to bych se m\u011Bla pod\xEDvat."
+    speakerName: Branice
+  choices: []
+  participantPortrait: {fileID: 21300000, guid: 8b50bf0e191068f4bbf726b7aed75abf, type: 3}
+  monologue: 0

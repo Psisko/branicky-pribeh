@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e95750f108e433543aef0099027763ad, type: 3}
+  m_Name: Plzen - dragon
+  m_EditorClassIdentifier: 
+  entryLines:
+  - text: Co to, to snad ne, ty jsi drak, v prazdroji?
+    speakerName: Branice
+  - text: "Hahaha, sko\u010Dila si mi rovnou do hrsti Branice, jak si mohla b\xFDt
+      tak naivn\xED."
+    speakerName: Drak Prazdroj
+  - text: "Ty by si pro Kry\u0161tofa ud\u011Blala opravdu cokoliv."
+    speakerName: Drak Prazdroj
+  - text: "Co to m\xE1 znamenat?"
+    speakerName: Branice
+  - text: "To j\xE1 jsem Kry\u0161tofa donutil, aby zni\u010Dil ostatn\xED pivovary,
+      po\u0159\xE1d jsem mu namlouval, \u017Ee ho ostatn\xED pomlouvaj\xED, dokud
+      mu zcela nep\u0159esko\u010Dilo."
+    speakerName: Drak Prazdroj
+  - text: "A ty si mu v tom je\u0161t\u011B pom\xE1hala, muHaHahAHAa"
+    speakerName: Drak Prazdroj
+  - text: "Tak za tohle dostane\u0161 po\u0159\xE1dnou nakl\xE1da\u010Dku, zahr\xE1vat
+      si takhle s Kry\u0161tofem...  Rozum\xED\u0161?!?!"
+    speakerName: Branice
+  - text: HahaHAHhaHAHahHAHHAHAA
+    speakerName: Drak Prazdroj
+  choices: []
+  participantName: Drak
+  participantPortrait: {fileID: 21300000, guid: 740eef0ac84bd48469f477316993b631, type: 3}
+  participantAudio: {fileID: 0}
