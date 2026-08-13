@@ -1,17 +1,4 @@
-# Kryštof_Baron_Branický
+# Branický příběh
 
-Školní projekt na BI-VHS a BI-SP2
+Bakalářská práce pro zakončení studia na FIT ČVUT
 
-[Dokumentace](documentation/Dokumentace.md)
-
-Autoři:
-* Matěj Chlan
-* Majda Musilová
-* Anna Musilová
-* Patrik Krulík
-* Kryštof Martínek
-* Zdeněk Nejedlý
-
-Unity projekt je složka /unity  
-
-Verze Unity: 2021.3.20f1
